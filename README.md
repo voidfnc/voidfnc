@@ -1,8 +1,8 @@
-# voidfnc - Cybersecurity Professional & Technical Support Specialist
+# voidfnc - Cybersecurity Enthusiast & IT Professional
 
 ## 👋 About Me
 
-Cybersecurity professional with 4+ years of enterprise technical support experience at a Fortune 50 organization. I specialize in bridging technical troubleshooting with security-aware solutions, combining hands-on IT operations with cybersecurity best practices.
+Cybersecurity junior/enthusiast with 4+ years of enterprise technical support experience at a Fortune 50 organization. I specialize in bridging technical troubleshooting with security-aware solutions, combining hands-on IT operations with cybersecurity best practices.
 
 ## 🎓 Certifications & Education
 
