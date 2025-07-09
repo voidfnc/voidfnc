@@ -8,7 +8,7 @@ Curious technologist and cybersecurity enthusiast focused on hands-on learning, 
 
 ## 🧠 Interests
 
-- Cybersecurity & opsec
+- Cybersecurity & Technology
 - Cloud infrastructure (Azure, Linux, Docker)
 - Automation & scripting
 - Identity & access management
