@@ -8,7 +8,8 @@ Curious technologist and cybersecurity enthusiast focused on hands-on learning, 
 
 ## 🧠 Interests
 
-- Cybersecurity & Technology
+- Cybersecurity & AI Technology
+- Pentesting & Reverse Engineering
 - Cloud infrastructure (Azure, Linux, Docker)
 - Automation & scripting
 - Identity & access management
