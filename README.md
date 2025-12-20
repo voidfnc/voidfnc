@@ -1,46 +1,27 @@
-# voidfnc
-
-## 👋 About
-
-Curious technologist and cybersecurity enthusiast focused on hands-on learning, automation, and security in IT and cloud environments.
-
+voidfnc
+##👋 About
+Technical Support Professional @ State Farm | Infosec Student | HTB Season 9 Platinum
 ---
-
-## 🧠 Interests
-
-- Cybersecurity & AI Technology
-- Pentesting & Reverse Engineering
-- Cloud infrastructure (Azure, Linux, Docker)
-- Automation & scripting
-- Identity & access management
-- Network analysis & monitoring
-- Security home labs and testing
-
+I’m a security-focused technologist dedicated to bridging the gap between enterprise IT operations and offensive security research. By day, I resolve complex application issues at State Farm; by night, I’m pwnage-focused in the HackTheBox labs.
 ---
-
-## 🤖 AI Projects & Current Endeavors
-
-- Exploring advanced prompt engineering for AI agents and tools
-- Developing and testing custom AI workflows and prompts (see [@voidfnc/voidfnc_prompts](https://github.com/voidfnc/voidfnc_prompts))
-- Experimenting with Copilot, LLMs, and prompt-driven automation in coding, security, and research
-- Learning and sharing about AI applications in cybersecurity and IT operations
-
+##🏆 Recent Achievement: 1st Place Winner (Solo) of the 2025 Annual Halloween CTF, a State Farm sponsored event hosted on HackTheBox.
 ---
-
-## 🛠️ Ongoing Learning & Lab Work
-
-- Security home lab: penetration testing, network analysis, system hardening
-- Cloud automation and containerization projects
-- Open-source security tool exploration
-- Continuous skill development in cloud, automation, and security
-
+##🧠 Interests
+Offensive Security: Pentesting, NMAP, Metasploit, and custom exploit research.
+Cloud Infrastructure: Azure, Linux/Windows Server, Docker, and Active Directory.
+CIAM & Logs: Managing authentication systems and analyzing telemetry for threat detection.
+AI/ML: Developing custom AI workflows and prompt engineering for security research.
 ---
-
-## 📫 Connect
-
-- Always interested in conversations on cybersecurity, AI, automation, and tooling.
-- Open to collaboration and sharing knowledge.
-
+##🛠️ Ongoing Learning & Lab Work
+B.S. in Cybersecurity: Currently pursuing at Georgia Southern University (GPA: 4.0).
+Certifications In-Progress: HTB Certified Penetration Testing Specialist (CPTS) & CompTIA Sec+.
+Hack Club: Active member of our internal workplace Hack Club, contributing to security workshops.
+Security Home Lab: Hands-on with NMAP, Metasploit, Wireshark, and system hardening.
 ---
-
-*"Always learning. Always testing. Security and curiosity first."*
+##🤖 AI Projects & Endeavors
+voidfnc_prompts: Developing and testing custom AI scenarios and agentic workflows.
+Prompt Driven Automation: Experimenting with LLMs to accelerate coding, research, and security analysis.
+---
+##📫 Connect
+Always happy to connect and talk shop about cloud infrastructure, enterprise IT challenges, or security research!
+Website: voidfnc.net
