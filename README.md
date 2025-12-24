@@ -1,7 +1,7 @@
 # voidfnc
 
 ## 👋 About
- | Infosec Student | HTB Season 9 Platinum**
+ ** Infosec Student | HTB Season 9 Platinum**
 
 I’m a security-focused technologist dedicated to bridging the gap between enterprise IT operations and offensive security research. By day, I resolve complex application issues at State Farm; by night, I’m pwnage-focused in the HackTheBox labs. 
 
