@@ -22,7 +22,7 @@ tools: nmap, metasploit, burp, wireshark — you know the list
 
 ## 📚 currently learning
 
-- B.S. Cybersecurity (4.0) — WGU  
+- B.S. Cybersecurity (4.0) — GSU
 - prepping for CPTS & Sec+  
 - breaking stuff in my lab, then fixing it
 
