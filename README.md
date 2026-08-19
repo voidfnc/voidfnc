@@ -30,7 +30,7 @@ tools: nmap, metasploit, burp, wireshark — you know the list
 
 ## 📬 connect
 
-[website](https://voidfnc.com) · [github](https://github.com/voidfnc) · [linkedin](https://linkedin.com/in/voidfnc)  
+[website](https://voidfnc.com) · [github](https://github.com/voidfnc) · [linkedin](https://www.linkedin.com/in/angel-henriquez-798843233?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 always down to chat about security, labs, or bad takes on AI.
 
 ---
