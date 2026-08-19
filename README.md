@@ -1,40 +1,38 @@
-# voidfnc
+# 👋 hey, i'm voidfnc
 
-## 👋 About
- **Infosec Student | HTB Season 9 Platinum**
-
-I’m a security-focused technologist dedicated to bridging the gap between enterprise IT operations and offensive security research.
-
-🏆 **Recent Achievement:** 1st Place Winner (Solo) of the 2025 Annual Halloween CTF, a State Farm sponsored event hosted on HackTheBox.
+security student · CTF player · tinkerer  
+currently bridging enterprise IT and offensive security — because knowing how things break means knowing how to build them better.
 
 ---
 
-## 🧠 Interests
-- **Offensive Security:** Pentesting, NMAP, Metasploit, and custom exploit research.
-- **Cloud Infrastructure:** Azure, Linux/Windows Server, Docker, and Active Directory.
-- **CIAM & Logs:** Managing authentication systems and analyzing telemetry for threat detection.
-- **AI/ML:** Developing custom AI workflows and prompt engineering for security research.
+## 🏆 stuff i've done
+
+- 1st place (solo) in the 2025 Annual Halloween CTF — hosted by State Farm on HackTheBox  
+- built a few AI prompt experiments ([voidfnc_prompts](https://github.com/voidfnc/voidfnc_prompts))  
+- run a home lab for red team practice (Active Directory, SIEM, the usual)
 
 ---
 
-## 🛠️ Ongoing Learning & Lab Work
-- **B.S. in Cybersecurity:** Currently pursuing at Georgia Southern University (GPA: 4.0).
-- **Certifications In-Progress:** HTB Certified Penetration Testing Specialist (CPTS) & CompTIA Sec+.
-- **Hack Club:** Active member of our internal workplace Hack Club, contributing to security workshops.
-- **Security Home Lab:** Hands-on with NMAP, Metasploit, Wireshark, and system hardening.
+## 🧠 what i'm into
+
+offensive security · cloud infra · CIAM · AI/ML security  
+tools: nmap, metasploit, burp, wireshark — you know the list
 
 ---
 
-## 🤖 AI Projects & Endeavors
-- **[voidfnc_prompts](https://github.com/voidfnc/voidfnc_prompts):** Developing and testing custom AI scenarios and agentic workflows.
-- **Prompt Driven Automation:** Experimenting with LLMs to accelerate coding, research, and security analysis.
+## 📚 currently learning
+
+- B.S. Cybersecurity (4.0) — WGU  
+- prepping for CPTS & Sec+  
+- breaking stuff in my lab, then fixing it
 
 ---
 
-## 📫 Connect
-- Always happy to connect and talk shop about cloud infrastructure, enterprise IT challenges, or security research!
-- **Website:** [voidfnc.net](https://voidfnc.net)
+## 📬 connect
+
+[website](https://voidfnc.com) · [github](https://github.com/voidfnc) · [linkedin](https://linkedin.com/in/voidfnc)  
+always down to chat about security, labs, or bad takes on AI.
 
 ---
 
-*"Always learning. Always testing. Security and curiosity first."*
+*learn. break. learn again.*
