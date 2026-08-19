@@ -1,7 +1,7 @@
 # 👋 hey, i'm voidfnc
 
 security student · CTF player · tinkerer  
-currently bridging enterprise IT and offensive security — because knowing how things break means knowing how to build them better.
+currently bridging enterprise IT and offensive security, because knowing how things break means knowing how to build them better.
 
 ---
 
