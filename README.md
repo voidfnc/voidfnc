@@ -22,8 +22,8 @@ tools: nmap, metasploit, burp, wireshark — you know the list
 
 ## 📚 currently learning
 
-- B.S. Cybersecurity (4.0) — GSU
-- prepping for CPTS & Sec+  
+- B.S. Cybersecurity — GSU
+- prepping for CPTS & more certs, challenges, and projects! 
 - breaking stuff in my lab, then fixing it
 
 ---
