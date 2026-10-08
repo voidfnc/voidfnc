@@ -16,7 +16,7 @@ currently bridging enterprise IT and offensive security, because knowing how thi
 ## 🧠 what i'm into
 
 offensive security · cloud infra · CIAM · AI/ML security  
-tools: nmap, metasploit, burp, wireshark — you know the list
+tools: nmap, metasploit, burp, wireshark 
 
 ---
 
